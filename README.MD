@@ -21,7 +21,15 @@ $ cd brazil-covid19-scraper
 
 $ yarn
 
-$ node scraper.js or node wikipedia-scraper.js
+$ node scraper.js
+
+or
+
+$ node wikipedia-scraper.js
+
+or
+
+$ node wikipedia-cherrio.js
 ```
 
 > It will generate a JSON file in data folder with the date of execution
