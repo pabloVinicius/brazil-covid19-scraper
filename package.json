@@ -5,7 +5,7 @@
   "author": "Pablo Vinícius <vinicius.pablo.18@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.3",
     "nightmare": "^3.0.2"
   }
